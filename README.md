@@ -4,13 +4,12 @@ Welcome to DSA cookbook ! 🏆🥇🥈🥉🏆
 
 ## Table of Contents
 
-- [Introduction](#introduction) 
-- [DSA Skill Tree](#skill-tree) 
-- [Data Structure](#data-structure) 
-- [Algorithm](#algorithm) 
-- [Usage](#usage) 
-- [Contributing](#contributing) 
-- [License](#license) 
+- [Introduction](#introduction) 🎭
+- [DSA Skill Tree](#skill-tree) 🎭
+- [Data Structure](#data-structure) 🎭
+- [Algorithm](#algorithm) 🎭
+- [Usage](#usage) 🎭
+- [License](#license) 🎭
 
 ## Introduction
 
