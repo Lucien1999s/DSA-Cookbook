@@ -18,13 +18,13 @@ Welcome to the DSA Cookbook, a collection of data structure and algorithm topics
 
 Learn about various data structures that help in organizing and manipulating data effectively.
 
-- [Arrays & Strings](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/arrays_strings.ipynb)
-- [Hash Tables](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/hash_table.ipynb)
-- [Linked Lists](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/linked_list.ipynb)
-- [Trees](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/tree.ipynb)
-- [Graphs](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/graph.ipynb)
-- [Queues & Stacks](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/queue_stack.ipynb)
-- [Heaps](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/heap.ipynb)
+- [Arrays & Strings](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/Array%26String.ipynb)
+- [Hash Tables](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/HashTable.ipynb)
+- [Linked Lists](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/LinkedList.ipynb)
+- [Trees](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/Tree.ipynb)
+- [Graphs](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/Graph.ipynb)
+- [Queues & Stacks](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/Queue%26Stack.ipynb)
+- [Heaps](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Data%20Structure/Heap.ipynb)
 
 ## Algorithm
 
