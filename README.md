@@ -13,7 +13,7 @@ Welcome to DSA cookbook ! 🏆🥇🥈🥉🏆
 
 ## Introduction
 
-The DSA Cookbook is a resource designed to help programmers understand the fundamental concepts of data structures and algorithms. It aims to help beginners and experienced developers improve their problem-solving skills and algorithmic thinking. It only provides examples, explanations and guidance on important algorithms and data structures of DSA, and aims to help programmers have a little in-depth understanding of DSA. understanding and how to use it.
+The DSA Cookbook is a resource designed to help programmers understand the fundamental concepts of data structures and algorithms. It is designed to help both beginners and experienced developers improve their problem-solving skills and algorithmic thinking. It only provides examples, explanations and guidance of DSA's important algorithms and data structures, and aims to help programmers have a little in-depth understanding of DSA. understand and how to use it. This cookbook is a basic teaching guide based on Python.
 
 ## Skill Tree
 
