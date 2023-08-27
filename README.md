@@ -1,18 +1,24 @@
 # DSA Cookbook
 
-Welcome to the DSA Cookbook, a collection of data structure and algorithm topics designed for study, reference, and to teach readers the fundamental techniques of DSA. This repository aims to provide explanations, code samples, and resources related to various data structure and algorithm concepts.
-
-![Skills Tree](./image/skills_tree.png)
+Welcome to DSA cookbook ! 🏆🥇🥈🥉🏆
 
 ## Table of Contents
 
-- [Data Structure](#data-structure)
-- [Algorithm](#algorithm)
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#introduction) 
+- [DSA Skill Tree](#skill-tree) 
+- [Data Structure](#data-structure) 
+- [Algorithm](#algorithm) 
+- [Usage](#usage) 
+- [Contributing](#contributing) 
+- [License](#license) 
 
+## Introduction
+
+The DSA Cookbook is a resource designed to help programmers understand the fundamental concepts of data structures and algorithms. It aims to help beginners and experienced developers improve their problem-solving skills and algorithmic thinking. It only provides examples, explanations and guidance on important algorithms and data structures of DSA, and aims to help programmers have a little in-depth understanding of DSA. understanding and how to use it.
+
+## Skill Tree
+
+![Skills Tree](./image/skills_tree.png)
 
 ## Data Structure
 
@@ -42,11 +48,6 @@ Explore different algorithmic techniques and strategies for problem-solving.
 - [Greedy Algorithms](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/Greedy.ipynb)
 - [Dynamic Programming](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/DynamicProgramming.ipynb)
 - [Bit Manipulation](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/BitManipulation.ipynb)
-
-
-## Introduction
-
-The DSA Cookbook is a resource designed to help programmers understand the fundamental concepts of data structures and algorithms. It aims to help beginners and experienced developers improve their problem-solving skills and algorithmic thinking. It only provides examples, explanations and guidance on important algorithms and data structures of DSA, and aims to help programmers have a little in-depth understanding of DSA. understanding and how to use it.
 
 ## Usage
 
