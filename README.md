@@ -30,18 +30,18 @@ Learn about various data structures that help in organizing and manipulating dat
 
 Explore different algorithmic techniques and strategies for problem-solving.
 
-- [Sorting Algorithms](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/sorting.ipynb)
-- [Binary Search](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/binary_search.ipynb)
-- [Prefix Sum](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/prefix_sum.ipynb)
-- [Two Pointer Approach](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/two_pointer.ipynb)
-- [Sliding Windows](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/sliding_windows.ipynb)
-- [Depth-First Search](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/depth_first_search.ipynb)
-- [Breadth-First Search](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/breadth_first_search.ipynb)
-- [Recursive Techniques](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/recursive.ipynb)
-- [Divide & Conquer](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/divide_and_conquer.ipynb)
-- [Greedy Algorithms](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/greedy.ipynb)
-- [Dynamic Programming](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/dynamic_programming.ipynb)
-- [Bit Manipulation](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/bit_manipulation.ipynb)
+- [Sorting Algorithms](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/Sorting.ipynb)
+- [Binary Search](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/BinarySearch.ipynb)
+- [Prefix Sum](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/PrefixSum.ipynb)
+- [Two Pointer Approach](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/TwoPointer.ipynb)
+- [Sliding Windows](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/SlidingWindows.ipynb)
+- [Depth-First Search](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/DepthFirstSearch.ipynb)
+- [Breadth-First Search](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/BreadthFirstSearch.ipynb)
+- [Recursive Techniques](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/Recursive.ipynb)
+- [Divide & Conquer](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/Divide%26Conquer.ipynb)
+- [Greedy Algorithms](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/Greedy.ipynb)
+- [Dynamic Programming](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/DynamicProgramming.ipynb)
+- [Bit Manipulation](https://github.com/Lucien1999s/Data-Structure-Algorithm-cookbook/blob/master/Algorithm/BitManipulation.ipynb)
 
 
 ## Introduction
